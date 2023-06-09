@@ -193,12 +193,13 @@ body {
 }
 
 .testimonials-item img {
-  height: 510px;
+  height: 250px;
   object-fit: cover;
 }
 
 .testimonials-item {
   display: flex;
+  padding: 5px;
   justify-content: center;
 }
 
@@ -393,7 +394,7 @@ footer ul li a{
     padding: 10px 20px 10px 10px;
   }  
   .testimonials-item img {
-    height: 410px;
+    height: 200px;
     object-fit: cover;
   }
 }
