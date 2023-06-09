@@ -193,8 +193,12 @@ body {
 }
 
 .testimonials-item img {
-  height: 210px;
+  height: 510px;
   object-fit: cover;
+}
+.testimonials-item {
+  display: flex;
+  justify-content: center;
 }
 
 #contact textarea {
