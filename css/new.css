@@ -27,6 +27,7 @@ body {
 .nav-pages ul li.active a {
   background-color: #e41e1b;
   border-radius: 10px;
+  color: #fff;
 }
 
 .video-content{
